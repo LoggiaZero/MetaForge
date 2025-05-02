@@ -19,16 +19,48 @@ Si la imagen contiene coordenadas geográficas en sus metadatos, MetaForge gener
 Diseño limpio y simple pensado para usuarios técnicos y no técnicos por igual.
 
 ---
-<!--
-## 📸 Captura de pantalla
 
-*Próximamente*  
-(Puedes subir una imagen `screenshot.png` al repositorio y usar:  
-`![MetaForge Screenshot](screenshot.png)`)
+## 📸 Capturas de pantalla
+
+<details>
+  <summary><strong>🖥️ Vista general de la interfaz</strong></summary>
+  <br>
+  <p align="center">
+    <a href="assets/gui.jpg" target="_blank">
+      <img src="assets/gui.jpg" alt="Interfaz MetaForge" width="300" style="border:1px solid #ccc; border-radius:8px"/>
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>🧭 Paso a paso: Uso de MetaForge</strong></summary>
+  <br>
+
+  <div align="center">
+
+  <!-- Paso 1 -->
+  <a href="assets/paso1.jpg" target="_blank" style="margin: 10px;">
+    <img src="assets/paso1.jpg" alt="Paso 1 - Selección de imagen" width="250" style="border:1px solid #ccc; border-radius:8px"/>
+    <div><strong>Paso 1</strong></div>
+  </a>
+
+  <!-- Paso 2 -->
+  <a href="assets/paso2.jpg" target="_blank" style="margin: 10px;">
+    <img src="assets/paso2.jpg" alt="Paso 2 - Ver metadatos" width="250" style="border:1px solid #ccc; border-radius:8px"/>
+    <div><strong>Paso 2</strong></div>
+  </a>
+
+  <!-- Paso 3 -->
+  <a href="assets/paso3.jpg" target="_blank" style="margin: 10px;">
+    <img src="assets/paso3.jpg" alt="Paso 3 - Eliminar u obtener ubicación" width="250" style="border:1px solid #ccc; border-radius:8px"/>
+    <div><strong>Paso 3</strong></div>
+  </a>
+
+  </div>
+
+</details>
 
 ---
--->
-
 ## 🛠️ Tecnologías utilizadas
 
 - Lenguaje: **C# (.NET Framework)**
