@@ -41,20 +41,26 @@ Diseño limpio y simple pensado para usuarios técnicos y no técnicos por igual
   <!-- Paso 1 -->
   <a href="assets/paso1.jpg" target="_blank" style="margin: 10px;">
     <img src="assets/paso1.jpg" alt="Paso 1 - Selección de imagen" width="250" style="border:1px solid #ccc; border-radius:8px"/>
-    <div><strong>Paso 1</strong></div>
   </a>
+  <div><strong>Paso 1</strong></div>
+ <div align="center">Da click en los tres puntos y selecciona la imagen</div>
+ </br>
 
   <!-- Paso 2 -->
   <a href="assets/paso2.jpg" target="_blank" style="margin: 10px;">
     <img src="assets/paso2.jpg" alt="Paso 2 - Ver metadatos" width="250" style="border:1px solid #ccc; border-radius:8px"/>
-    <div><strong>Paso 2</strong></div>
   </a>
+  <div><strong>Paso 2</strong></div>
+  <div align="center">El boton de "quitar metadatos" crea una copia de la imagen sin metadatos</div>
+  </br>
+
 
   <!-- Paso 3 -->
   <a href="assets/paso3.jpg" target="_blank" style="margin: 10px;">
     <img src="assets/paso3.jpg" alt="Paso 3 - Eliminar u obtener ubicación" width="250" style="border:1px solid #ccc; border-radius:8px"/>
-    <div><strong>Paso 3</strong></div>
   </a>
+  <div><strong>Paso 3</strong></div>
+  <div align="center">Abre la imagen nueva y comprueba</div> 
 
   </div>
 
